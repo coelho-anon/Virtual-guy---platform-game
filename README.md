@@ -12,9 +12,10 @@ The game runs directly in the browser without requiring an installation.
 
 ## Screenshots
 
-![Virtual Guy gameplay](https://plays.org/screenshots/virtua-guy-platforming.png)
-
-![Virtual Guy level complete](https://plays.org/screenshots/virtua-guy-level-complete.png)
+<p align="center">
+  <img src="https://plays.org/screenshots/virtua-guy-platforming.png" width="45%" alt="Virtual Guy gameplay">
+  <img src="https://plays.org/screenshots/virtua-guy-level-complete.png" width="45%" alt="Virtual Guy level complete">
+</p>
 
 *Screenshots from the published Virtua Guy version.*
 
