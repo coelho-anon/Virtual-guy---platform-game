@@ -12,12 +12,11 @@ The game runs directly in the browser without requiring an installation.
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://plays.org/screenshots/virtua-guy-platforming.png" width="45%" alt="Virtual Guy gameplay">
-  <img src="https://plays.org/screenshots/virtua-guy-level-complete.png" width="45%" alt="Virtual Guy level complete">
-</p>
+The screenshots below are stored directly in this repository.
 
-*Screenshots from the published Virtua Guy version.*
+<p align="center">
+  <img src="screenshots/590x300.png" width="24%" alt="Virtual Guy screenshot 1" /> <img src="screenshots/590x300%202.png" width="24%" alt="Virtual Guy screenshot 2" /> <img src="screenshots/590x300%203.png" width="24%" alt="Virtual Guy screenshot 3" /> <img src="screenshots/590x300%204.png" width="24%" alt="Virtual Guy screenshot 4" />
+</p>
 
 ## About
 
@@ -76,6 +75,7 @@ The repository contains the exported HTML5 version of the game, including:
 - `sw.js` — service worker
 - `images/` — game images and visual assets
 - `media/` — audio and multimedia assets
+- `screenshots/` — project screenshots displayed in this README
 - `icon-*.png` — application icons
 
 ## Running Locally
@@ -100,7 +100,7 @@ Opening `index.html` directly may not provide the same behavior as serving the p
 
 This project demonstrates practical work with Construct 2 and the evolution of a simple platform-game study project into a more complete browser game.
 
-The original platform-game project dates from **2021**, while the Virtual Guy version was publicly listed in **2023**. The commercial listing describes the game as an HTML5/Construct 2/3 platform game and identifies it as a side-scroller. citeturn487097search0turn487097search4
+The original platform-game project dates from **2021**, while the Virtual Guy version was publicly listed in **2023**.
 
 ## Author
 
