@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #007BFF;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #007BFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    background-color: #333333;
+    padding: 10px 20px;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.menu li {
+    margin-right: 20px;
+}
+
+.menu li:last-child {
+    margin-right: 0;
+}
+
+.menu li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos dos cartões */
+.highlight {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    /* width: 300px;
+    height: 400px;
+    display: inline-block; */
+    vertical-align: top; /* Alinhar os cartões ao topo */
+    transition: background-color 0.3s, box-shadow 0.3s; /* Adicionar transições suaves para o hover */
+}
+
+.highlight h2 {
+    color: #007BFF;
+    transition: transform 0.3s; /* Adicionar transição suave para o efeito de escala */
+}
+
+.highlight p {
+    font-size: 16px;
+}
+
+.highlight ul {
+    list-style: disc;
+}
+
+.highlight li {
+    margin-bottom: 5px;
+}
+
+.highlight a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.highlight a:hover {
+    text-decoration: underline;
+}
+
+/* Efeito de hover */
+.highlight:hover {
+    background-image: linear-gradient(182deg, #c2ace3, #44c9f1);
+    box-shadow: 0 4px 8px 4px rgba(255, 65, 108, 0.2);
+    color: white;
+}
+.highlight:hover h2 {
+    transform: scale(1.03);
+    color: #ffffff;
+}
+
+/* Estilos para as imagens */
+img {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    max-width: 100%;
+}
