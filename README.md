@@ -2,7 +2,7 @@
 
 [![Play Online](https://img.shields.io/badge/Play%20Online-Live%20Preview-brightgreen?style=for-the-badge)](https://virtual-guy-live-preview.netlify.app/)
 
-A 2D side-scrolling platform game developed with Construct 2 and exported for HTML5. The project was originally published in 2023 as **Virtua Guy**, a pixel-art platform game designed around a fun and challenging side-scrolling experience.
+A 2D side-scrolling platform game developed with Construct 2 and exported for HTML5. **Virtual Guy** is the improved evolution of an earlier 2D platform game project created in 2021, expanding the original concept with a more complete platforming experience, additional gameplay elements and a more polished presentation.
 
 ## Play Online
 
@@ -10,27 +10,49 @@ A 2D side-scrolling platform game developed with Construct 2 and exported for HT
 
 The game runs directly in the browser without requiring an installation.
 
+## Screenshots
+
+![Virtual Guy gameplay](https://plays.org/screenshots/virtua-guy-platforming.png)
+
+![Virtual Guy level complete](https://plays.org/screenshots/virtua-guy-level-complete.png)
+
+*Screenshots from the published Virtua Guy version.*
+
 ## About
 
-Virtual Guy is a browser-based 2D platform game featuring a side-scrolling format, pixel-art presentation and gameplay focused on navigating platforms and obstacles.
+Virtual Guy is a retro-inspired 2D platformer focused on exploration, platforming and avoiding hazards while progressing through its levels.
 
-The project is part of my practical experimentation with game development using Construct 2, including gameplay logic, multimedia assets, browser deployment and HTML5 export.
+The game features **3 levels**, collectible apples, checkpoints, enemies, spikes, moving hazards, portals, bounce pads and a trophy at the end of each stage. The player must navigate the environments carefully while collecting as many apples as possible and reaching the goal.
 
-The project was also published as a commercial HTML5/Construct game in 2023.
+The project is a direct evolution of the earlier **[2D Platform Game](https://github.com/coelho-anon/plataform-game---construct2)** created in 2021 as a Construct 2 study project. Virtual Guy represents a more developed version of that original platform-game experiment, with a richer level structure, more gameplay mechanics, additional assets and a more polished presentation.
+
+## Development History
+
+- **2021** — Original 2D platform game created as a study project with Construct 2.
+- **2023** — Virtual Guy was developed as an expanded version of the platform-game concept and published as an HTML5/Construct game.
+- **August 7, 2023** — The commercial Virtual Guy item was publicly listed on CodeCanyon.
+- **2026** — The HTML5 export was organized and published in this GitHub repository, together with a live Netlify preview.
+
+There is no reliable public record indicating the exact number of days or hours spent developing Virtual Guy, so the development duration is not stated as a specific number.
 
 ## Features
 
 - 2D side-scrolling platform gameplay
+- 3 playable levels
 - Pixel-art visual style
-- Platform-based level navigation
 - Character movement and jumping
-- Enemies and environmental obstacles
-- Collectible and interactive game elements
+- Collectible apples
+- Checkpoints for saving progress
+- Enemies and environmental hazards
+- Spikes and moving obstacles
+- Bounce pads
+- Portals
+- Trophy-based level completion
 - Sound effects and background music
 - Browser-based HTML5 gameplay
-- Mobile-oriented HTML5 configuration
+- Mobile-friendly HTML5 configuration
 - Fullscreen web-app configuration
-- Offline/service-worker support included in the exported project
+- Service-worker support
 
 ## Technologies
 
@@ -75,9 +97,9 @@ Opening `index.html` directly may not provide the same behavior as serving the p
 
 ## Development Context
 
-This project demonstrates practical work with Construct 2 and the process of turning a game project into a browser-playable HTML5 application.
+This project demonstrates practical work with Construct 2 and the evolution of a simple platform-game study project into a more complete browser game.
 
-The project was originally published in **2023** and later maintained in this repository as part of my portfolio of development and study projects.
+The original platform-game project dates from **2021**, while the Virtual Guy version was publicly listed in **2023**. The commercial listing describes the game as an HTML5/Construct 2/3 platform game and identifies it as a side-scroller. citeturn487097search0turn487097search4
 
 ## Author
 
@@ -88,3 +110,5 @@ GitHub: [@coelho-anon](https://github.com/coelho-anon)
 ---
 
 **[Play Virtual Guy Online →](https://virtual-guy-live-preview.netlify.app/)**
+
+**Related project:** [2D Platform Game — Construct 2](https://github.com/coelho-anon/plataform-game---construct2)
